@@ -2,7 +2,7 @@
   "name": "first-test",
   "version": "1.0.0",
   "description": "",
-  "main": "server.ts",
+  "main": "index.ts",
   "scripts": {
     "start": "nodemon server.ts"
   },
